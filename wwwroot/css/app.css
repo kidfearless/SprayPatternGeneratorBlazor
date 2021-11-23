@@ -1,0 +1,13 @@
+﻿
+body:first-child {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+body span {
+	border: 1px solid #000;
+	display: inline-flex;
+	width: 545px;
+}
